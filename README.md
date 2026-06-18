@@ -8,7 +8,7 @@ Links marked (soon) go live as those assets ship — update them then.
 Ali — the verified version of personal AI ops
 Data scientist. I run real life-and-work admin on AI agents — a wedding, an HOA fight, civic data — and I publish how I know the output is right: the verification, the receipts, and the post-mortems of what broke.
 Not anti-AI. Governed AI.
-→ alidoes.ai (soon) · newsletter (soon) · ali@alidoes.ai
+→ alidoes.ai · newsletter (soon) · ali@alidoes.ai
 Building now
 
 alidoes.ai — the site, built in public, with the research basis for every decision logged.
