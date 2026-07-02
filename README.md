@@ -1,10 +1,8 @@
-# Ali — the verified version of personal AI ops
+# Afsar Ali (Ali)
 
-Data scientist. I run real life-and-work admin on AI agents — a wedding, an HOA fight, civic data — and I publish **how I know the output is right**: the verification, the receipts, and the post-mortems of what broke.
+Data scientist publishing **the verified version of personal AI ops**. I run real life-and-work admin on AI agents and show how I know the output is right: the verification layer, the receipts, and the post-mortems when it breaks. Not anti-AI — *governed* AI.
 
-Not anti-AI. *Governed* AI.
-
-→ **[alidoes.ai](https://alidoes.ai)** · newsletter (soon) · `ali@alidoes.ai`
+→ **[alidoes.ai](https://alidoes.ai)** · newsletter: **[alidoesai.substack.com](https://alidoesai.substack.com)** · X: **[@alidoesai](https://x.com/alidoesai)** · `ali@alidoes.ai`
 
 ### Building now
 - **alidoes.ai** — the site, built in public, with the research basis for every decision logged.
