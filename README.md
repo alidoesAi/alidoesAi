@@ -1,6 +1,6 @@
 # Afsar Ali (Ali)
 
-Data scientist publishing **the verified version of personal AI ops**. I run real life-and-work admin on AI agents and show how I know the output is right: the checks, the logs, and the post-mortems when it breaks.
+A data scientist. I run my real life and work on AI, then check its work, in the open. That's **personal AI ops** — how I run it and how I know the output's right: the checks, the logs, the post-mortems when it breaks.
 
 → **[alidoes.ai](https://alidoes.ai)** · newsletter: **[alidoesai.substack.com](https://alidoesai.substack.com)** · X: **[@alidoesai](https://x.com/alidoesai)** · `ali@alidoes.ai`
 
