@@ -13,4 +13,4 @@ A data scientist. I run my real life and work on AI, then check its work, in the
 - [Airline-Demand-Forecasting](https://github.com/alidoesAi/Airline-Demand-Forecasting) — advanced-booking demand model (Python).
 - [Optimization-programming](https://github.com/alidoesAi/Optimization-programming) — constrained optimization, decision trees, Markov decision processes.
 
-<sub>Bay Area · the decade of analytics work is the foundation; the verification layer on top is what's new.</sub>
+<sub>Bay Area · the decade of analytics work is the foundation; the checks on top are what's new.</sub>
