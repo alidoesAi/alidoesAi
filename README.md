@@ -12,7 +12,7 @@ receipts—including when the output is wrong.
 - **[Verified agent skills](https://github.com/alidoesAi/alidoesai-skills)** — agent skills that ship *with* their test evidence and permission disclosure.
 - **"How I Caught It"** — a failure-forward series: where my AI-assisted work was wrong, and the check that caught it.
 
-## Historical analytics library
+## Historical analytics archive
 
 These are preserved academic and team projects from my earlier analytics
 work—not client or production systems. Their repository documentation
@@ -27,9 +27,6 @@ current-runtime questions.
 - [Optimization programming](https://github.com/alidoesAi/Optimization-programming) — R coursework in constrained optimization, simulation, and queueing.
 - [Sales analysis](https://github.com/alidoesAi/Sales-Analysis) — individually authored R coursework with a Shiny artifact.
 - [Worldwide life expectancy analysis](https://github.com/alidoesAi/Worldwide-Life-Expectancy-Analysis) — R exploration of 568 observations across 71 countries.
-
-One additional historical cloud/data-architecture repository is intentionally
-omitted while third-party data in its history receives a security review.
 
 *Bay Area · the decade of analytics work is the foundation; the checks on top
 are what's new.*
